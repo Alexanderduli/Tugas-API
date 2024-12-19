@@ -13,7 +13,7 @@ TAMPILAN GRIDVIEW
 
 ![WhatsApp Image 2024-12-19 at 14 46 25 (1)](https://github.com/user-attachments/assets/8dc7780c-0507-46bc-88a8-bd898879cb63)
 
-TAMPILAN HOME LISTVIEW
+TAMPILAN LISTVIEW
 
 ![WhatsApp Image 2024-12-19 at 14 46 25 (2)](https://github.com/user-attachments/assets/9fe2db0d-b492-44be-bd2e-3fef99717515)
 
