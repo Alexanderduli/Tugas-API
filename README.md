@@ -1,16 +1,15 @@
-# tugas
+# Latihan Api Pemrograman Mobile
 
-A new Flutter project.
+Tampilan Home
+![WhatsApp Image 2024-12-19 at 14 46 24](https://github.com/user-attachments/assets/cc3991d3-d0cd-4b9e-9516-cfa225d118f1)
+Tampilan Go to News Page
+![WhatsApp Image 2024-12-19 at 14 46 24 (1)](https://github.com/user-attachments/assets/b1b822fd-7420-4b7b-8f50-d66c12cde5be)
+![WhatsApp Image 2024-12-19 at 14 46 25](https://github.com/user-attachments/assets/34dbdaec-57c4-42f8-9cef-219183a66bdb)
+Tampilan GridView
+![WhatsApp Image 2024-12-19 at 14 46 25 (1)](https://github.com/user-attachments/assets/8dc7780c-0507-46bc-88a8-bd898879cb63)
+Tampulan ListView
+![WhatsApp Image 2024-12-19 at 14 46 25 (2)](https://github.com/user-attachments/assets/9fe2db0d-b492-44be-bd2e-3fef99717515)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
